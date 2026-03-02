@@ -1,5 +1,5 @@
 ## Hi there I'm Jallaludin👋 
-![CatCute](github-header-banner.png)
+![ItsJail](/img/github-header-banner.png)
 
 
 <!-- 
