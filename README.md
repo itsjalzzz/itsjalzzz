@@ -1,5 +1,5 @@
 ## Hi there I'm Jallaludin👋 
-![CatCute](/img/고양이%20미모%20전설의%20레전드.jpg)
+![CatCute](github-header-banner.png)
 
 
 <!-- 
